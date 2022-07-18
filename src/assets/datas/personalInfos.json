@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Email",
+    "value": "rachman.syahril@gmail.com",
+    "isLink": "mailto:rachman.syahril@gmail.com"
+  },
+  {
+    "title": "Phone Number",
+    "value": "+6282321021294",
+    "isLink": "https://wa.me/+6282321021294?text=Hello Syahril, I found your contact via your CV site."
+  },
+  { "title": "Date of Birth", "value": "September, 08th 1994" },
+  { "title": "Current Address", "value": "Bandung, Indonesia" }
+]

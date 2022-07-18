@@ -1,0 +1,24 @@
+
+
+.cv__segment h3 {
+  padding: 8px;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.cv__segment h4 {
+  padding: 0px 16px;
+  font-size: 16px;
+  font-weight: 100;
+}
+
+.cv__segment h5 {
+  padding: 0 16px;
+  font-size: 18px;
+  font-weight: 100;
+  margin-bottom: 22px;
+}
+
+.segment__link {
+  margin-bottom: 22px;
+}

@@ -1,0 +1,15 @@
+[
+  { "title": "HTML", "score": 90 },
+  { "title": "JavaScript", "score": 90 },
+  { "title": "CSS", "score": 90 },
+  { "title": "VueJs", "score": 85 },
+  { "title": "ReactJs", "score": 80 },
+  { "title": "AngularJs", "score": 75 },
+  { "title": "Laravel", "score": 75 },
+  { "title": "Material Design", "score": 85 },
+  { "title": "Bootstrap Design", "score": 80 },
+  { "title": "Tailwind CSS", "score": 75 },
+  { "title": "Git", "score": 85 },
+  { "title": "Jest (Unit Testing)", "score": 80 },
+  { "title": "UNIX Syntax", "score": 80 }
+]
