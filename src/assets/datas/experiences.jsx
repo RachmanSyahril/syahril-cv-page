@@ -32,7 +32,7 @@ const experiences = [
     periodDesc: "1 yr 1 mo",
     title: "Ritase.com",
     subTitle: "Frontend Developer",
-    desc: "",
+    desc: "Working in a web-application, building dashboards, user and company management, visualizing logistical flow, order flow, and shipment flow, and implementing UAC (User Access Control).",
     children: (
       <>
         <h5>
@@ -50,7 +50,7 @@ const experiences = [
     periodDesc: "1 yr",
     title: "EZCar.id",
     subTitle: "Fullstack Developer (Freelance)",
-    desc: "",
+    desc: "Working in a web-application, visualizing real-time data, and order flow, building user and company management, report using data visualization, and implementing UAC (User Access Control).",
     children: (
       <>
         <h5>
@@ -60,7 +60,7 @@ const experiences = [
           </a>
         </h5>
         <h5>
-          Stack used: ReactJs, React Native, Redux, Expo, Antd Design, NodeJs,
+          Stack used: ReactJs + React Native (Expo), Redux, Antd Design, NodeJs,
           MongoDB, Google Map APIs
         </h5>
       </>
