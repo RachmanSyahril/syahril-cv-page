@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syahril-cv-page/static/css/main.df9fdc3e.css",
+    "main.js": "/syahril-cv-page/static/js/main.0d11ae0f.js",
+    "index.html": "/syahril-cv-page/index.html",
+    "main.df9fdc3e.css.map": "/syahril-cv-page/static/css/main.df9fdc3e.css.map",
+    "main.0d11ae0f.js.map": "/syahril-cv-page/static/js/main.0d11ae0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df9fdc3e.css",
+    "static/js/main.0d11ae0f.js"
+  ]
+}
