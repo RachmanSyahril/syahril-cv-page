@@ -4,4 +4,4 @@ I haven't able to make my imagined ideal CV using any CV Maker out there, so I t
 
 Built in standard A4 paper using pure CSS + ReactJs via [Create React App](https://github.com/facebook/create-react-app).
 
-Feel free to copy this if you're interested :)
+Feel free to clone this if you're interested :)
