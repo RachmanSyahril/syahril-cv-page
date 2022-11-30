@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Web Development",
+    "value_list": "HTML, Javascript, CSS, PWA, REST API"
+  },
+  {
+    "title": "Frontend Development",
+    "value_list": "VueJs, ReactJs, AngularJs, Laravel, Material Design, Bootstrap, Tailwind, Antd"
+  },
+  {
+    "title": "Backend Development",
+    "value_list": "Laravel, NodeJs, HapiJs, .Net"
+  },
+  {
+    "title": "Testing & Code Quality",
+    "value_list": "Jest, Sonarqube"
+  },
+  {
+    "title": "Tools & Platforms",
+    "value_list": "Git, UNIX, Figma, Trello, Jira, Slack, Telegram"
+  }
+]

@@ -1,6 +1,7 @@
 import React from "react";
 
-function SegmentItem({ title, value, score, isLink }) {
+function SegmentItem({ title, value, value_list, score, isLink }) {
+  const lists = value_list?.split(",") || [];
   return (
     <>
       <h4>
@@ -23,6 +24,15 @@ function SegmentItem({ title, value, score, isLink }) {
         <div className="score_box">
           <div className="score_bar" style={{ width: `${score}%` }}></div>
         </div>
+      )}
+      {!lists.length > 0 ? (
+        ""
+      ) : (
+        <ul style={{ padding: "2px 35px", marginBottom: "16px" }}>
+          {lists.map((val) => (
+            <li style={{ listStyle: "disc" }}>{val}</li>
+          ))}
+        </ul>
       )}
     </>
   );

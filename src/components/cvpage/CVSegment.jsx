@@ -14,6 +14,7 @@ function CVSegment({ title, items }) {
           key={i}
           title={item.title}
           value={item.value}
+          value_list={item.value_list}
           score={item.score}
           isLink={item.isLink}
         />

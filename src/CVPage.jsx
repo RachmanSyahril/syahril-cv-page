@@ -6,7 +6,7 @@ import "./assets/CVPage.css";
 // Datas
 import personalInfos from './assets/datas/personalInfos.json';
 import socmeds from './assets/datas/socmeds.json';
-import skills from './assets/datas/skills.json';
+import skills from './assets/datas/skills1.json';
 import edus from './assets/datas/educations.json';
 import exps from './assets/datas/experiences';
 
