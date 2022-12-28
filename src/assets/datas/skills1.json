@@ -5,11 +5,11 @@
   },
   {
     "title": "Frontend Development",
-    "value_list": "VueJs, ReactJs, AngularJs, Laravel, Material Design, Bootstrap, Tailwind, Antd"
+    "value_list": "VueJs, ReactJs, AngularJs, Laravel, Material Design, Bootstrap, Tailwind, Antd Design"
   },
   {
     "title": "Backend Development",
-    "value_list": "Laravel, NodeJs, HapiJs, .Net"
+    "value_list": "Laravel, NodeJs, HapiJs, .Net Core"
   },
   {
     "title": "Testing & Code Quality",

@@ -3,7 +3,7 @@ import React from "react";
 const experiences = [
   {
     period: "2020-Now",
-    periodDesc: "2 yrs 11 mos",
+    periodDesc: "3 yrs",
     title: "Telkom Indonesia",
     subTitle: "Frontend Developer",
     desc: "Working in Indicar.id and Telkom Tribe of IoT, Digital Business and Technology Division. Visualizing real-time iot datas, tracking devices and many more iot-based solutions also Accommodating Tribe's Needs of a web-based digital products.",
