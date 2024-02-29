@@ -4,6 +4,8 @@
   { "title": "CSS", "score": 90 },
   { "title": "VueJs", "score": 85 },
   { "title": "ReactJs", "score": 80 },
+  { "title": "NuxtJs", "score": 80 },
+  { "title": "NextJs", "score": 80 },
   { "title": "AngularJs", "score": 75 },
   { "title": "Laravel", "score": 75 },
   { "title": "Material Design", "score": 85 },

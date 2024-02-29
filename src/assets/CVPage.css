@@ -62,7 +62,7 @@ p {
   width: 210mm;
   background: var(--color-white);
   color: black;
-  margin: 5% auto;
+  margin: auto;
   display: grid;
   grid-template-columns: 35% 65%;
 }

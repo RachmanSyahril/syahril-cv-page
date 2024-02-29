@@ -1,6 +1,8 @@
 [
   {
     "period": "2014-2017",
+    "start": "2014",
+    "end": "2017",
     "periodDesc": "",
     "title": "Piksi Ganesha Polytechnic",
     "subTitle": "D4-Informatics Management",
@@ -8,6 +10,8 @@
   },
   {
     "period": "2009-2012",
+    "start": "2009",
+    "end": "2012",
     "periodDesc": "",
     "title": "SMK Negeri 1 Cimahi (STM Pembangunan Bandung)",
     "subTitle": "Computer and Network Engineering (TKJ)",

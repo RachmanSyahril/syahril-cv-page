@@ -5,11 +5,11 @@
   },
   {
     "title": "Frontend Development",
-    "value_list": "VueJs, ReactJs, AngularJs, Laravel, Material Design, Bootstrap, Tailwind, Antd Design"
+    "value_list": "VueJs, ReactJs, NuxtJs, NextJs, AngularJs, Laravel, Material Design, Bootstrap, Tailwind, Antd Design"
   },
   {
     "title": "Backend Development",
-    "value_list": "Laravel, NodeJs, HapiJs, .Net Core"
+    "value_list": "Laravel, NodeJs, HapiJs, .Net Core, Socket.io, Kafka, Redis, MySQL, MongoDB, PostgreSQL, Firebase"
   },
   {
     "title": "Testing & Code Quality",
@@ -17,6 +17,6 @@
   },
   {
     "title": "Tools & Platforms",
-    "value_list": "Git, UNIX, Figma, Trello, Jira, Slack, Telegram"
+    "value_list": "Git, UNIX, Docker, Figma, Trello, Jira, Slack"
   }
 ]

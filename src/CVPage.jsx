@@ -1,7 +1,7 @@
-import React from "react";
-import CVSegment from "./components/cvpage/CVSegment";
-import CVContent from "./components/cvpage/CVContent";
-import "./assets/CVPage.css";
+import React from 'react';
+import CVSegment from './components/cvpage/CVSegment';
+import CVContent from './components/cvpage/CVContent';
+import './assets/CVPage.css';
 
 // Datas
 import personalInfos from './assets/datas/personalInfos.json';
@@ -9,7 +9,6 @@ import socmeds from './assets/datas/socmeds.json';
 import skills from './assets/datas/skills1.json';
 import edus from './assets/datas/educations.json';
 import exps from './assets/datas/experiences';
-
 
 function CVPage() {
   return (
@@ -19,18 +18,21 @@ function CVPage() {
         <small>Web Developer</small>
         <br />
         <br />
-        <CVSegment title={"Personal Informations"} items={personalInfos} />
-        <CVSegment title={"Social Media"} items={socmeds} />
-        <CVSegment title={"Technical Skills"} items={skills} />
+        <CVSegment title={'Personal Informations'} items={personalInfos} />
+        <CVSegment title={'Social Media'} items={socmeds} />
+        <br />
+        <CVSegment title={'Technical Skills'} items={skills} />
       </div>
 
       <div className="cv__main">
         <p>
-          Beginning study in the field of network and computer infrastructure, I
-          found myself more in favor of Application and System Management. After
-          acquiring years of experiences with Web, Desktop, Mobile, and Backend
-          Programming, also mentioning Technical Support and Freelancing skills.
-          I am now putting my focus on becoming a Senior Web Developer.
+          Embarking on my educational journey in network and computer
+          infrastructure, I found myself naturally drawn to Application and
+          System Management. Through years of hands-on experience in Web,
+          Desktop, Mobile, and Backend Programming, along with cultivating
+          Technical Support and Freelancing skills, I've come to realize the
+          vastness of the field. At this point, I'm humbly focused on the goal
+          of gradually advancing toward the role of a Senior Web Developer.
         </p>
 
         <h2>Education</h2>
