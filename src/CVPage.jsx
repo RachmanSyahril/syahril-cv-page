@@ -25,7 +25,7 @@ function CVPage() {
       </div>
 
       <div className="cv__main">
-        <p>
+        {/* <p>
           Embarking on my educational journey in network and computer
           infrastructure, I found myself naturally drawn to Application and
           System Management. Through years of hands-on experience in Web,
@@ -33,7 +33,7 @@ function CVPage() {
           Technical Support and Freelancing skills, I've come to realize the
           vastness of the field. At this point, I'm humbly focused on the goal
           of gradually advancing toward the role of a Senior Web Developer.
-        </p>
+        </p> */}
 
         <h2>Education</h2>
         {edus.map((edu, idx) => (

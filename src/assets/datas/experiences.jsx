@@ -12,6 +12,10 @@ const experiences = [
       <>
         <h5>
           Sites:
+          <a href="https://antares.id/" target="_blank" rel="noreferrer">
+            antares.id
+          </a>
+          ,
           <a href="https://indicar.id/" target="_blank" rel="noreferrer">
             indicar.id
           </a>
