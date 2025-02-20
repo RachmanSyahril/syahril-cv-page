@@ -9,7 +9,7 @@
   },
   {
     "title": "Backend Development",
-    "value_list": "Laravel, NodeJs, HapiJs, .Net Core, Socket.io, Kafka, Redis, MySQL, MongoDB, PostgreSQL, Firebase"
+    "value_list": "Laravel, NodeJs, HapiJs, .Net Core, Mqtt, Socket.io, Kafka, Redis, MySQL, MongoDB, PostgreSQL, Firebase"
   },
   {
     "title": "Testing & Code Quality",

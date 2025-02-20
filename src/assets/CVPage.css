@@ -70,6 +70,9 @@ p {
 .cv__side {
   background: var(--color-primary);
   color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+
 }
 
 .cv__main {
