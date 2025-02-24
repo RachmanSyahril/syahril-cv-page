@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/syahril-cv-page/static/css/main.377165c3.css",
-    "main.js": "/syahril-cv-page/static/js/main.9ca76114.js",
+    "main.css": "/syahril-cv-page/static/css/main.a0b0a23f.css",
+    "main.js": "/syahril-cv-page/static/js/main.a06becd9.js",
     "index.html": "/syahril-cv-page/index.html",
-    "main.377165c3.css.map": "/syahril-cv-page/static/css/main.377165c3.css.map",
-    "main.9ca76114.js.map": "/syahril-cv-page/static/js/main.9ca76114.js.map"
+    "main.a0b0a23f.css.map": "/syahril-cv-page/static/css/main.a0b0a23f.css.map",
+    "main.a06becd9.js.map": "/syahril-cv-page/static/js/main.a06becd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.377165c3.css",
-    "static/js/main.9ca76114.js"
+    "static/css/main.a0b0a23f.css",
+    "static/js/main.a06becd9.js"
   ]
 }
