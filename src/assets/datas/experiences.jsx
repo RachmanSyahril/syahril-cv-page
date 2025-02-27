@@ -5,8 +5,9 @@ const experiences = [
     period: "2020-Now",
     periodDesc: "3 yrs 8 mo",
     title: "Telkom Indonesia",
+    place: "Bandung, Jakarta, Remote",
     subTitle: "Software Engineer (Fulltime)",
-    desc: "Developed and implemented real-time IoT data visualization solutions that enhanced tracking capabilities for over 100 devices, resulting in improved user engagement and satisfaction across the digital product portfolio.",
+    desc: "Developed and implemented real-time IoT data visualization solutions that enhanced tracking capabilities for over 1000+ devices, resulting in improved user engagement and satisfaction across the digital product portofolio.",
     children: (
       <>
         <h5>
@@ -42,6 +43,7 @@ const experiences = [
   {
     period: "2025-2025",
     periodDesc: "1 mo",
+    place: "Remote",
     title: "MeHealth Clinic (Pertamina)",
     subTitle: "Frontend Developer (Freelance)",
     desc: "Developed a clinic web application with features for patient management, appointment scheduling, medical records handling, and real-time data visualization, enhancing operational efficiency and patient care.",
@@ -65,6 +67,7 @@ const experiences = [
     period: "2023-2023",
     periodDesc: "1 yr 1 mo",
     title: "Peacegen.id",
+    place: "Remote",
     subTitle: "Frontend Developer (Freelance)",
     desc: "Developed an online education and student management platform, building interactive dashboards, student management tools, and dynamic content pages, improving user engagement and streamlining administrative processes",
     children: (
@@ -87,6 +90,7 @@ const experiences = [
     period: "2023-2023",
     periodDesc: "1 yr 1 mo",
     title: "SMILED KPI",
+    place: "Jakarta, Remote",
     subTitle: "Frontend Developer (Freelance)",
     desc: "Developed the Online Information Portal System for the Indonesian National Broadcasting Commission (KPI), implementing interactive charts and statistics, an admin dashboard, user access control, and dynamic data forms.",
     children: (
@@ -105,6 +109,7 @@ const experiences = [
     period: "2019-2020",
     periodDesc: "1 yr 1 mo",
     title: "Ritase.com",
+    place: "Bandung, Jakarta",
     subTitle: "Frontend Developer (Fulltime)",
     desc: "Developed a web application with a focus on interactive dashboards, user and company management, and real-time visualization of logistical, order, and shipment flows, while also implementing User Access Control (UAC) for secure role-based access.",
     children: (
@@ -123,6 +128,7 @@ const experiences = [
     period: "2018-2018",
     periodDesc: "1 yr",
     title: "EZCar.id",
+    place: "Jakarta",
     subTitle: "Fullstack Developer (Freelance)",
     desc: "Developed a web and mobile application with a focus on real-time data visualization, order flow tracking, user and company management, and report generation using data visualization, while implementing User Access Control (UAC) for secure access management.",
     children: (
@@ -144,6 +150,7 @@ const experiences = [
     period: "2018-2018",
     periodDesc: "1 yr 3 mos",
     title: "Sahaware Teknologi Indonesia",
+    place: "Bandung, Jakarta, Remote",
     subTitle: "Fullstack Developer (Freelance)",
     desc: "",
     children: (
@@ -156,6 +163,7 @@ const experiences = [
     period: "2017-2017",
     periodDesc: "1 yr 1 mo",
     title: "Teknoland Mitra Solusi",
+    place: "Bandung",
     subTitle: "Fullstack Developer (Freelance)",
     desc: "",
     children: (
@@ -168,6 +176,7 @@ const experiences = [
     period: "2014-2016",
     periodDesc: "2 yrs 6 mos",
     title: "Skyline Semesta",
+    place: "Cimahi",
     subTitle: "Mobile Developer",
     desc: "",
     children: (
@@ -180,6 +189,7 @@ const experiences = [
     period: "2013-2013",
     periodDesc: "1 yr 10 mos",
     title: "CV. Metacare",
+    place: "Bandung",
     subTitle: "Technical Support Engineer",
     desc: "",
     children: (

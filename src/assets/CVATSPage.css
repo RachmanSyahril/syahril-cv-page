@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+:root {
+  --color-bg: #1f1f38;
+  --color-bg-variant: #2c2c6c;
+  --color-primary: #123f72;
+  --color-primary-variant: #12284b;
+  --color-white: #fff;
+  --color-light: #484848;
+}
+
+body {
+  /* font-family: Georgia, Times, Times New Roman, serif; */
+  /* font-family: "Times New Roman", Times, serif; */
+  font-family: Helvetica, Arial, sans-serif;
+  /* font-family: "Garamond", "Georgia", serif; */
+  background: var(--color-bg);
+  color: var(--color-bg);
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 1;
+  margin: 0px 0px 12px 0px;
+  text-align: center;
+  padding-bottom: 12px;
+  border-bottom: 2px solid;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 300;
+  padding-top: 12px !important;
+  padding-bottom: 0px;
+  border-bottom: 2px solid;
+  color: black;
+}
+
+small {
+  font-weight: 100;
+  font-size: 15px;
+  font-style: italic;
+  margin: 0px;
+}
+
+a {
+  text-decoration: revert;
+  color: white;
+  padding: 0 16px;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.6;
+}
+
+.cvats__document {
+  width: 210mm;
+  margin: auto;
+  color: black;
+  margin-top: 20px;
+  padding: 24px;
+  background: var(--color-white);
+}
+
+.cv__center {
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.cv__row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 12px;
+  padding-left: 10%;
+  padding-right: 10%;
+  border-bottom: 2px solid;
+  margin-bottom: 12px;
+}
+
+.cv__side {
+  background: var(--color-primary);
+  color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+}
+
+.cv__main {
+  padding: 16px;
+}
+
+.tx__title {
+  background: var(--color-primary-variant);
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+.score_box {
+  width: 90%;
+  padding: 2px;
+  margin: 8px auto 24px;
+  border: 1px solid white;
+}
+
+.score_bar {
+  height: 12px;
+  background: white;
+}
+
+.cv__skills {
+  display: grid;
+  grid-template-columns: 3% 25% 60%
+}

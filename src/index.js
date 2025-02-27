@@ -1,9 +1,10 @@
 import { createRoot } from 'react-dom/client';
 import CVPage from "./CVPage";
+import CVATSPage from "./CVATSPage";
 import ReactGA from "react-ga4";
 
 ReactGA.initialize("G-Y98L0ZT1M1");
 
 const container = document.getElementById('root');
 const root = createRoot(container); // createRoot(container!) if you use TypeScript
-root.render(<CVPage />);
+root.render(<CVATSPage />);
