@@ -2,8 +2,30 @@ import React from "react";
 
 const experiences = [
   {
-    period: "2020-Now",
-    periodDesc: "3 yrs 8 mo",
+    period: "2025-2025",
+    periodDesc: "5 mo",
+    title: "Cloami Dashboard",
+    place: "Bandung",
+    subTitle: "Full Stack Developer (Freelance)",
+    desc: "a management dashboard for clothing brand factory outlet",
+    children: (
+      <>
+        <h5>
+          💻 Tech Stack: React.js, Nest.js, PostgreSQL, Tailwind
+
+        </h5>
+        <h5>
+          🌍 Live Site(s):
+          <a href="https://dashboard.cloami.com/" target="_blank" rel="noreferrer">
+            dashboard.cloami.com
+          </a>
+        </h5>
+      </>
+    ),
+  },
+  {
+    period: "2020-2025",
+    periodDesc: "5 yrs 3 mo",
     title: "Telkom Indonesia",
     place: "Bandung, Jakarta, Remote",
     subTitle: "Software Engineer (Fulltime)",
@@ -15,7 +37,7 @@ const experiences = [
           Leaflet, Chart.js, ECharts
         </h5>
         <h5>
-          🌍 Live Sites:
+          🌍 Live Site(s):
           <a href="https://antares.id/" target="_blank" rel="noreferrer">
             antares.id
           </a>
@@ -51,7 +73,7 @@ const experiences = [
       <>
         <h5>💻 Tech Stack: NextJs, Antd</h5>
         <h5>
-          🌍 Live Sites:
+          🌍 Live Site(s):
           <a
             href="https://stg-klinik.mehealths.co.id/"
             target="_blank"
@@ -74,7 +96,7 @@ const experiences = [
       <>
         <h5> 💻 Tech Stack: VueJs, NuxtJs, Vuex</h5>
         <h5>
-          🌍 Live Site:
+          🌍 Live Site(s):
           <a
             href="https://pa21.peacegen.id/login/"
             target="_blank"
@@ -97,7 +119,7 @@ const experiences = [
       <>
         <h5>💻 Tech Stack: VueJs, NuxtJs, Vuex, Echart, ChartJs</h5>
         <h5>
-          🌍 Live Site:
+          🌍 Live Site(s):
           <a href="https://smiled.kpi.go.id/" target="_blank" rel="noreferrer">
             smiled.kpi.go.id
           </a>
@@ -116,7 +138,7 @@ const experiences = [
       <>
         <h5>💻 Tech Stack: AngularJs, Google Map APIs</h5>
         <h5>
-          🌍 Live Site:
+          🌍 Live Site(s):
           <a href="https://ritase.com/" target="_blank" rel="noreferrer">
             ritase.com
           </a>
@@ -138,7 +160,7 @@ const experiences = [
           NodeJs, MongoDB, Google Map APIs
         </h5>
         <h5>
-          🌍 Live Site:
+          🌍 Live Site(s):
           <a href="https://ezcar.id/" target="_blank" rel="noreferrer">
             ezcar.id
           </a>
